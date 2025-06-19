@@ -1,0 +1,36 @@
+[submodule "repos/poky"]
+	path = repos/poky
+	url = https://git.yoctoproject.org/poky.git
+[submodule "repos/meta-arm"]
+	path = repos/meta-arm
+	url = https://git.yoctoproject.org/meta-arm.git
+[submodule "repos/meta-tensorflow"]
+	path = repos/meta-tensorflow
+	url = https://git.yoctoproject.org/meta-tensorflow.git
+[submodule "repos/meta-security"]
+	path = repos/meta-security
+	url = https://git.yoctoproject.org/meta-security
+[submodule "repos/meta-openembedded"]
+	path = repos/meta-openembedded
+	url = https://git.openembedded.org/meta-openembedded
+[submodule "repos/meta-clang"]
+	path = repos/meta-clang
+	url = https://github.com/kraj/meta-clang.git
+[submodule "repos/meta-rity"]
+	path = repos/meta-rity
+	url = https://gitlab.com/mediatek/aiot/rity/meta-rity.git
+[submodule "repos/meta-mediatek-bsp"]
+	path = repos/meta-mediatek-bsp
+	url = https://gitlab.com/mediatek/aiot/rity/meta-mediatek-bsp.git
+[submodule "repos/meta-mediatek-tsn"]
+	path = repos/meta-mediatek-tsn
+	url = https://gitlab.com/mediatek/aiot/rity/meta-mediatek-tsn.git
+[submodule "repos/meta-mediatek-demo"]
+	path = repos/meta-mediatek-demo
+	url = https://gitlab.com/mediatek/aiot/rity/meta-mediatek-demo.git
+[submodule "repos/meta-mediatek-bluedroid"]
+	path = repos/meta-mediatek-bluedroid
+	url = https://gitlab.com/mediatek/aiot/rity/meta-mediatek-bluedroid.git
+[submodule "repos/meta-nn"]
+	path = repos/meta-nn
+	url = https://gitlab.com/mediatek/aiot/rity/meta-nn.git
